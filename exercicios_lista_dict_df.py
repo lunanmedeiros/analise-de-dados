@@ -15,7 +15,7 @@ Regra da aula:
 # -------------------------------------------------
 # BLOCO 1: criar DataFrame e inspecionar estrutura
 # -------------------------------------------------
-import pandas as pd
+import pandas as pd 
 dados_vendas = {
     "mes": ["Jan", "Jan", "Fev", "Fev", "Mar", "Mar"],
     "filial": ["Centro", "Norte", "Centro", "Norte", "Centro", "Norte"],
