@@ -1,3 +1,4 @@
+
 """
 Aula - Exercicios de Pandas DataFrame
 Como usar:
@@ -29,7 +30,8 @@ dados_vendas = {
 # c) Mostre o formato (linhas, colunas)
 # d) Mostre os tipos de dados das colunas
 
-# RESOLUCAO: complete aqui
+# RESOLUCAO: complete aquis
+
 
 
 
